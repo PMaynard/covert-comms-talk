@@ -8,9 +8,31 @@ Pete Maynard
 
 
 
+## Which means..
+Bypass restrictions of the firewall.
+
+
+
 ## How?
-- Optional Fields
+Disguise the data to bypass the firewall.
+
+
+
+## Methods
 - Bit manipulation
+- Optional Fields
+
+
+
+## Bit manipulation
+- IP's ID Field
+- TCP's ISN Field
+
+
+
+## Optional Fields
+- DNS RDATA field
+- ICMP Payload
 
 
 
